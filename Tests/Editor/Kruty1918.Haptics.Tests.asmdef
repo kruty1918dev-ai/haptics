@@ -1,0 +1,7 @@
+{
+ "name": "Kruty1918.Haptics.Tests",
+ "references": ["Kruty1918.Haptics"],
+ "includePlatforms": ["Editor"],
+ "optionalUnityReferences": ["TestAssemblies"],
+ "autoReferenced": false
+}
